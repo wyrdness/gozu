@@ -1,0 +1,445 @@
+{
+  "category": "URBAN_LEGEND",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/gozu",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "gozu",
+    "name": "Gozu",
+    "name_japanese": "牛頭",
+    "aliases": [
+      {
+        "name": "Cow Head",
+        "language": "English",
+        "meaning": "Direct translation"
+      },
+      {
+        "name": "Ushi no Kubi",
+        "language": "Japanese",
+        "meaning": "Variant: 'Cow's Neck'"
+      },
+      {
+        "name": "The Gozu Story",
+        "language": "English",
+        "meaning": "Descriptive reference"
+      }
+    ],
+    "category": "URBAN_LEGEND",
+    "subcategory": "Meta-Legend / Forbidden Knowledge",
+    "tags": [
+      "urban-legend",
+      "japanese-folklore",
+      "meta-narrative",
+      "forbidden-knowledge",
+      "1980s",
+      "cognitohazard",
+      "dangerous-narrative",
+      "lost-media",
+      "school-legend"
+    ],
+    "status": "urban_legend_active",
+    "description": {
+      "summary": "Japanese meta-legend about a story so terrifying that listeners die, go insane, or become severely ill. The actual content is unknown/lost, making it a legend about a dangerous legend.",
+      "full": "Gozu (牛頭, 'Cow Head') is a unique Japanese urban legend that functions as a meta-narrative—a story about a dangerous story. According to the legend, Gozu is a narrative so terrifying, disturbing, or cognitively hazardous that anyone who hears it suffers severe psychological or physical consequences, including illness, madness, and death. The most common version describes a 1980s incident where a teacher on a school bus trip began telling students a story called 'Gozu.' Despite students begging him to stop as they fell ill, the teacher—seemingly entranced or compelled—continued until he collapsed. The students reportedly experienced fever, psychological trauma, and in some versions, long-term mental effects. Crucially, the actual content of the Gozu story is completely unknown—no one can remember or recount it. This makes Gozu a pure concept of dangerous knowledge, a legend sustained entirely by its absence. The name may derive from Buddhist hell guardians (Gozu-mekki, ox-headed demons) or from Gozu-Tennō, a Buddhist-Shinto syncretic deity associated with disease and protection."
+    },
+    "etymology": {
+      "origin": "From Japanese 'go/ushi' (牛, cow/ox) and 'zu/atama' (頭, head)",
+      "meaning": "Cow Head or Ox Head",
+      "pronunciation": "goh-zoo",
+      "cultural_connections": [
+        "Gozu-Tennō (牛頭天王): Buddhist-Shinto deity of disease/protection",
+        "Gozu-mekki: Ox-headed Buddhist hell guardians",
+        "Kotodama (言霊): Japanese belief in spiritual power of words"
+      ]
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "URBAN_LEGEND",
+      "type": "Meta-Narrative",
+      "subtype": "Forbidden Knowledge Legend",
+      "variant": "Cognitohazard Narrative / Lost Media"
+    },
+    "related_phenomena": [
+      {
+        "id": "king-in-yellow",
+        "name": "The King in Yellow",
+        "relationship": "literary_parallel",
+        "description": "R.W. Chambers' fictional play that drives readers mad (1895)"
+      },
+      {
+        "id": "kuchisake-onna",
+        "name": "Kuchisake-onna",
+        "relationship": "temporal_parallel",
+        "description": "Contemporary 1970s-80s Japanese urban legend"
+      },
+      {
+        "id": "scp-foundation",
+        "name": "SCP Foundation",
+        "relationship": "inspired_fiction",
+        "description": "Internet fiction featuring 'cognitohazards' inspired by concepts like Gozu"
+      },
+      {
+        "id": "rokos-basilisk",
+        "name": "Roko's Basilisk",
+        "relationship": "modern_parallel",
+        "description": "Internet thought experiment considered 'dangerous to know'"
+      },
+      {
+        "id": "ring-curse",
+        "name": "Ring/Ringu Curse",
+        "relationship": "fictional_parallel",
+        "description": "Cursed video tape causing death (fictional but similar concept)"
+      },
+      {
+        "id": "lovecraftian-knowledge",
+        "name": "Lovecraftian Forbidden Knowledge",
+        "relationship": "thematic_predecessor",
+        "description": "Literary tradition of knowledge that drives one mad"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "content_status": "unknown_nonexistent",
+    "meta_structure": {
+      "layer_1": "Knowledge about Gozu legend (safe)",
+      "layer_2": "Legend of the school bus incident (safe, meta-layer)",
+      "layer_3": "The teacher telling 'Gozu' story (allegedly dangerous)",
+      "layer_4": "Actual content of 'Gozu' (unknown/nonexistent)"
+    },
+    "alleged_effects": [
+      {
+        "effect": "Physical illness",
+        "symptoms": ["Nausea", "Fever", "Vomiting", "Weakness"],
+        "onset": "During or immediately after hearing",
+        "duration": "Days to weeks reported"
+      },
+      {
+        "effect": "Psychological trauma",
+        "symptoms": ["Nightmares", "Anxiety", "Fear", "Mental distress"],
+        "onset": "Immediate to delayed",
+        "duration": "Extended period"
+      },
+      {
+        "effect": "Memory suppression",
+        "symptoms": ["Inability to recall content", "Amnesia of story details"],
+        "onset": "Immediate",
+        "duration": "Permanent"
+      },
+      {
+        "effect": "Compulsion",
+        "symptoms": ["Narrator unable to stop telling story", "Entranced state"],
+        "onset": "During narration",
+        "duration": "Until collapse or interruption"
+      }
+    ],
+    "speculated_content_elements": [
+      "Rural Japanese setting (possibly Edo period)",
+      "Involves a cow or ox in horrific circumstances",
+      "Possible Buddhist/supernatural elements",
+      "Possible connection to hell guardians (Gozu-mekki)",
+      "Graphic or body horror elements",
+      "Ontologically disturbing (challenges fundamental assumptions)",
+      "Note: All speculative—no verified content exists"
+    ]
+  },
+
+  "origins": {
+    "first_recorded": "1980s-1990s",
+    "origin_location": "Japan",
+    "primary_version": {
+      "setting": "School bus during field trip (1980s)",
+      "participants": "Teacher and elementary/junior high students",
+      "location_variant": "Rural journey, possibly Shiga Prefecture area",
+      "incident": "Teacher tells story called 'Gozu', students become ill, teacher collapses, story never completed",
+      "aftermath": "Medical attention required, official silence, teacher cannot remember content"
+    },
+    "variant_versions": [
+      {
+        "version": "University classroom",
+        "description": "Professor researching forbidden stories recounts Gozu, students experience mass psychogenic illness"
+      },
+      {
+        "version": "Radio broadcast",
+        "description": "Late-night radio caller begins telling Gozu, broadcast cuts off, listeners report illness"
+      },
+      {
+        "version": "Written manuscript",
+        "description": "Discovered text containing Gozu causes physical symptoms in readers, document confiscated/destroyed"
+      }
+    ],
+    "historical_context": {
+      "period": "1970s-1990s Japanese urban legend boom",
+      "contemporary_legends": ["Kuchisake-onna (1979)", "Aka Manto", "Teke Teke", "Hanako-san"],
+      "cultural_factors": [
+        "Post-war modernization tensions",
+        "Education system authority structures",
+        "Pre-internet information control",
+        "Video tape era (lost media plausibility)",
+        "School-based legend tradition"
+      ]
+    }
+  },
+
+  "theories": {
+    "interpretations": [
+      {
+        "theory": "Pure fabrication",
+        "likelihood": "Most likely",
+        "description": "Gozu never existed as complete story; meta-legend created as thought experiment",
+        "evidence": ["Zero verifiable sources", "Structurally unprovable", "Follows urban legend patterns perfectly"]
+      },
+      {
+        "theory": "Lost folk tale",
+        "likelihood": "Possible",
+        "description": "Ancient folk tale existed, was genuinely disturbing, became basis for modern legend",
+        "evidence": ["Traditional Japanese taboo subjects", "Religious content deemed dangerous", "Cultural memory preservation"]
+      },
+      {
+        "theory": "Mass psychogenic illness",
+        "likelihood": "Partial truth",
+        "description": "Real incident occurred, but story content wasn't cause—psychogenic illness from suggestion",
+        "evidence": ["Well-documented phenomenon", "Common in school settings", "Japanese group psychology context"]
+      },
+      {
+        "theory": "Memetic protection device",
+        "likelihood": "Conceptual",
+        "description": "Legend functions as warning about dangerous information and information hazards",
+        "evidence": ["Educational function", "Boundary-setting", "Models information quarantine"]
+      },
+      {
+        "theory": "Actual cognitohazard",
+        "likelihood": "Highly speculative",
+        "description": "Genuine information hazard exists; legend is protective mechanism",
+        "evidence": ["Speculative only", "No verified harmful effects", "Relies on theoretical frameworks"]
+      }
+    ]
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Originated in Japan (1980s), spread globally via internet (2000s+)",
+      "continents": ["Asia", "North America", "Europe", "Global via internet"],
+      "countries": ["Japan", "Global spread through internet communities"],
+      "origin_region": "Japan (specific location unclear)"
+    },
+    "temporal": {
+      "emergence": "1980s-1990s",
+      "internet_spread": "2000s-2010s",
+      "current_status": "Active urban legend, international recognition",
+      "peak_interest": "Ongoing with periodic revivals"
+    },
+    "transmission": {
+      "original": "Oral tradition, word-of-mouth",
+      "modern": "Internet forums, creepypasta sites, YouTube, social media",
+      "characteristics": "High virality, mutation resistance, self-reinforcing mystery"
+    }
+  },
+
+  "history": {
+    "timeline": [
+      {
+        "date": "Ancient-Edo Period",
+        "event": "Buddhist hell guardian imagery established",
+        "significance": "Cultural foundation for Gozu concept"
+      },
+      {
+        "date": "1970s",
+        "event": "Japanese urban legend boom begins",
+        "significance": "Cultural environment for modern legends"
+      },
+      {
+        "date": "~1980s",
+        "event": "First recorded mentions of Gozu legend",
+        "significance": "Birth of the meta-legend"
+      },
+      {
+        "date": "1990s",
+        "event": "Spread through word-of-mouth and early internet",
+        "significance": "Establishment in Japanese urban legend canon"
+      },
+      {
+        "date": "2000s",
+        "event": "International spread via internet",
+        "significance": "Global recognition, creepypasta communities"
+      },
+      {
+        "date": "2003",
+        "event": "Takashi Miike film 'Gozu' released",
+        "significance": "Unrelated but increases name awareness"
+      },
+      {
+        "date": "2010s",
+        "event": "Academic analysis and SCP Foundation parallels",
+        "significance": "Scholarly attention, comparison to infohazard concepts"
+      },
+      {
+        "date": "2020s",
+        "event": "Continued cultural presence",
+        "significance": "Enduring mystery, ongoing discussions"
+      }
+    ]
+  },
+
+  "cultural": {
+    "folklore": {
+      "themes": [
+        "Dangerous knowledge",
+        "Forbidden information",
+        "Power of narrative",
+        "Protection through ignorance",
+        "Authority and responsibility",
+        "Boundaries of acceptable curiosity",
+        "Lost/forbidden media"
+      ],
+      "cultural_concepts": [
+        "Kotodama (言霊): Spiritual power of words",
+        "Ma (間): Power in negative space/omission",
+        "Tatari (祟り): Curse from taboo violation",
+        "Group psychology and social conformity"
+      ],
+      "psychological_elements": [
+        "Fear of unknown",
+        "Curiosity about forbidden",
+        "Loss of control (compelled listening)",
+        "Epistemic threat (knowledge as danger)",
+        "Imagination filling gaps",
+        "Nocebo effect potential"
+      ]
+    },
+    "symbolism": {
+      "representations": [
+        "Limits of human knowledge",
+        "Dangers of unbridled curiosity",
+        "Power of suggestion and belief",
+        "Information control and censorship",
+        "Teacher/authority responsibility",
+        "Cultural trauma and forbidden history"
+      ]
+    },
+    "popular_culture": {
+      "films": [
+        "Gozu (2003, Takashi Miike) - unrelated surreal horror using same title"
+      ],
+      "literature": [
+        "Various creepypasta stories inspired by Gozu concept",
+        "SCP Foundation entries featuring cognitohazards",
+        "Internet horror fiction using similar structures"
+      ],
+      "internet_culture": [
+        "Frequent discussion on urban legend forums",
+        "YouTube horror analysis videos",
+        "'Lost episode' creepypasta inspiration",
+        "'Cursed knowledge' meme parallels"
+      ],
+      "influence": "Influential concept in internet horror and cognitohazard fiction; exemplar of meta-narrative structure"
+    }
+  },
+
+  "verification_status": {
+    "incident_verification": "Unverified",
+    "witness_testimony": "None confirmed",
+    "physical_evidence": "None",
+    "documentation": "No primary sources",
+    "academic_consensus": "Classified as urban legend without factual basis",
+    "classification": "Urban legend / Modern folklore"
+  },
+
+  "modern_relevance": {
+    "information_age_parallels": [
+      "AI safety infohazards",
+      "Dangerous biological/weapons research disclosure",
+      "Cybersecurity vulnerability disclosure",
+      "Social media mental health impacts",
+      "Misinformation and viral lies",
+      "Content warning culture"
+    ],
+    "philosophical_questions": [
+      "Can knowledge itself be harmful?",
+      "Is ignorance ever protective?",
+      "Where are boundaries of acceptable knowledge?",
+      "Ethics of information sharing",
+      "Nature of horror (content vs. suggestion)"
+    ]
+  },
+
+  "safety_guidelines": {
+    "according_to_legend": [
+      "Do not seek the original story",
+      "Do not listen if someone claims to tell it",
+      "Do not read texts claiming to be original",
+      "Knowledge of the legend (meta-layer) is safe",
+      "Respect the boundary"
+    ],
+    "rational_perspective": [
+      "No verified harmful effects exist",
+      "Psychogenic illness possible if belief is strong",
+      "Critical thinking provides protection",
+      "Standard psychological safety applies",
+      "Evaluate sources, recognize urban legends"
+    ],
+    "research_protocols": [
+      "Informed consent for participants",
+      "Psychological support availability",
+      "Critical analysis and scholarly distance",
+      "Cultural sensitivity required",
+      "Do not fabricate evidence"
+    ]
+  },
+
+  "sources": [
+    {
+      "id": "chambers-1895",
+      "type": "book",
+      "title": "The King in Yellow",
+      "authors": ["Robert W. Chambers"],
+      "date": "1895",
+      "relevance": "Literary precedent for dangerous narrative concept"
+    },
+    {
+      "id": "foster-2009",
+      "type": "book",
+      "title": "Pandemonium and Parade: Japanese Monsters and the Culture of Yōkai",
+      "authors": ["Michael Dylan Foster"],
+      "publication": "University of California Press",
+      "date": "2009",
+      "isbn": "978-0520253629"
+    },
+    {
+      "id": "brunvand-1981",
+      "type": "book",
+      "title": "The Vanishing Hitchhiker: American Urban Legends and Their Meanings",
+      "authors": ["Jan Harold Brunvand"],
+      "publication": "W.W. Norton & Company",
+      "date": "1981",
+      "isbn": "978-0393951691"
+    },
+    {
+      "id": "bostrom-2011",
+      "type": "article",
+      "title": "Information Hazards: A Typology of Potential Harms from Knowledge",
+      "authors": ["Nick Bostrom"],
+      "publication": "Review of Contemporary Philosophy",
+      "volume": "10",
+      "date": "2011"
+    }
+  ]
+}
